@@ -6,14 +6,14 @@ The core of the system is built on SSD-Mobilenet architecture, accessed through 
 
 ### Dataset 
 
-![alt text](image-2.png)
+![dataset-sample](screenshots/dataset.png)
 
 - **Dataset Size**: 300
 - **Data Source**: Bulk download from Google Images
 - **Annotation Tool**: Annotations were performed using the [LabelImg tool](https://github.com/HumanSignal/labelImg)
 
 ## Results
-![alt text](image-3.png)
+![results-preview](screenshots/results.png)
 
 ## Installation 
 
