@@ -3,3 +3,5 @@ annotations/
 **/**/*.png
 **/**/*.jpg
 jade/
+model_checkpoints/
+tf_downloads/
