@@ -20,7 +20,7 @@ The core of the system is built on SSD-Mobilenet architecture, accessed through 
 1. Clone the repository and change directory
 
     ```bash
-    git clone https://github.com/SaniaE/image-captioning.git
+    git clone https://github.com/SaniaE/jade-object-detection.git
     cd path/to/repo/clone
     ```
 2. Create and activate a new virtual enviornment
